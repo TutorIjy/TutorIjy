@@ -26,8 +26,8 @@ Looking forward to collaborating with you!
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/></td>
-   <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datadog.svg" width="60" alt="Datadog"/></td>
-   <td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cockpit.svg" width="60" alt="Cockpit"/></td>
+   <td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog" /></td>
+   <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
  </tr>
 </table>
  
