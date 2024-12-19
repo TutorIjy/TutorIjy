@@ -50,7 +50,7 @@ Looking forward to collaborating with you!
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TutorIjy&theme=darkhub&margin-w=15&margin-h=15)
 
 ### 🔝 Top Contributed Repositories 
-![](https://github-contributor-stats.vercel.app/api?username=WendyOkoli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TutorIjy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ![](https://komarev.com/ghpvc/?username=TutorIjy&color=blue)
