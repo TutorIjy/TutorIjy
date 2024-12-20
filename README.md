@@ -1,12 +1,12 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Chinwe Ijeoma Ejiro-Majemite;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines= Hello!+I'm+Chinwe Ijeoma Ejiro-Majemite;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 
 
-- 👋
-I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
+ 👋
+A Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
 🚀 What I Can Do for You
 Optimize Cloud Infrastructure: Design scalable, secure, and cost-efficient cloud environments that align with your unique needs.
