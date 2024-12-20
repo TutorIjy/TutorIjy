@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Chinwe Ijeoma;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Chinwe Ijeoma Ejiro;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 
