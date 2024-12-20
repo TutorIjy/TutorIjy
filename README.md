@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines= Hello!+I'm+Chinwe Ijeoma Ejiro-Majemite;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Chinwe Ijeoma;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 
@@ -12,6 +12,7 @@ A Cloud/DevOps Engineer with extensive experience in cloud computing, automation
 Optimize Cloud Infrastructure: Design scalable, secure, and cost-efficient cloud environments that align with your unique needs.
 Automate Processes: Build and implement robust automation pipelines to minimize manual tasks, reduce errors, and accelerate deployment timelines.
 Enhance Security: Apply industry best practices to protect your systems, ensuring compliance and safeguarding your data.
+Collaboration: A Storng Collaborative nature while working ina Development Team.
 
 Improve System Reliability: Proactively monitor and resolve potential issues to maximize uptime, maintain high performance, and ensure seamless operations.
 🎯 Let’s Collaborate
@@ -47,7 +48,8 @@ Looking forward to collaborating with you!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutorIjy&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TutorIjy&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TutorIjy&theme=dark&hide_border=false" alt="Your GitHub Streak">
+
 
 
 ## 📊 Most Used Languages:
